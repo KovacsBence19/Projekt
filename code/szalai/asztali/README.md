@@ -1,8 +1,9 @@
 # Asztali alkalmazás forrásfájlai
 
+> [!NOTE]
+> Ez a rész még nincs kész, azért van most egy egyszerű Hello World C++ program.
+
 ## Buildelés
-> [!WARNING]
-> Ez a rész még nincs kész, ezért csak a **3. lépésig** kövesse az utasításokat!!
 1. [Telepítse le az MSYS2-t](https://www.msys2.org/)
 2. Frissíts mindent benne és telepítsd le a hozzátartozó eszközöket az **MSYS2 UCRT64 parancssorban**:
 ```
