@@ -1,0 +1,34 @@
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BLoodmoon: Reborn</title>
+<link rel="stylesheet" href="style.mink.css">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+<div class="card" role="main">
+<h1>Bejelentkezés</h1>
+<form id="loginForm">
+<label for="username">Felhasználónév</label>
+<input id="username" name="username" type="text" autocomplete="username" required>
+
+
+<label for="password">Jelszó</label>
+<input id="password" name="password" type="password" autocomplete="current-password" required>
+
+
+<div class="actions">
+<button type="submit">Bejelentkezés</button>
+
+<button type="button" id="demoBtn" class="secondary">Bejelentkezés (demo)</button>
+</div>
+</form>
+
+
+<div id="msg" aria-live="polite"></div>
+<div class="hint">
+<div class="small">Megjegyzés: a demo üzemmód helyben ellenőrzi a demo felhasználót (<code>demo/demo123</code>).
+A valós használathoz indíts szervert, és kapcsold be a real módot a kódban.</div>
+</div>
+</div>
