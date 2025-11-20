@@ -1,4 +1,7 @@
 # Lel.tar
+> [!IMPORTANT]
+> Hamarosan újra lesz strukturálva az egész repository, vagy át lesz mozgatva egy másik helyre. A jelenlegi elrendezés így NEM végleges!
+
 Egy árkád "bullet hell" lövöldözős videójáték, suliprojekthez.
 
 ## Csapat
@@ -13,3 +16,4 @@ Egy árkád "bullet hell" lövöldözős videójáték, suliprojekthez.
 | Weboldal *(statikus)* | HTML + CSS, [Bootstrap 5.3](https://getbootstrap.com/) |
 | Weboldal *(frontend)* | [Vue.js](https://vuejs.org/) + [Vite](https://vite.dev/) |
 | Backend / Szerver | [.NET EF Core 8.0.22](https://github.com/dotnet/efcore) |
+
