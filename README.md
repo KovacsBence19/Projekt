@@ -1,13 +1,13 @@
 # Lel.tar
-> [!IMPORTANT]
-> Hamarosan újra lesz strukturálva az egész repository, vagy át lesz mozgatva egy másik helyre. A jelenlegi elrendezés így NEM végleges!
-
-Egy árkád "bullet hell" lövöldözős videójáték, suliprojekthez.
+> [!WARNING]
+> AZ EGÉSZ PROJEKT ÁT LETT MOZGATVA EHHEZ A SZERVEZETHEZ: [LohinSys](https://github.com/LohinSys) !!
+> 
+> A projekt jelenlegi munkája mostantól ott található, ezért ez a repo csak egy "Hall of Shame"-nek fog szolgálni a két másnak.
 
 ## Csapat
-- [Szalai Bence](https://github.com/szB3NC3) - Frontend, Asztali alkalmazás, Deployment, Git
-- [Kovács Bence](https://github.com/KovacsBence19) - Backend, Dokumentáció és Prezentáció, Mobilalkalmazás, Globális tesztelés
-- ~~[Gazdag Detti](https://github.com/KiraWeiszhab)~~ - *(leiratkozott, ezért most nincsen velünk...)*
+- [Szalai Bence](https://github.com/szB3NC3) - mindent
+- ~~[Kovács Bence](https://github.com/KovacsBence19)~~ - *(nem csinált semmit, meg úgy látom hogy nem is akar dolgozni)*
+- ~~[Gazdag Detti](https://github.com/KiraWeiszhab)~~ - *(leiratkozott, ezért most nincsen velünk)*
 
 ## Használt dolgok
 | Projekt része | Szoftver / Keretrendszer |
@@ -16,4 +16,3 @@ Egy árkád "bullet hell" lövöldözős videójáték, suliprojekthez.
 | Weboldal *(statikus)* | HTML + CSS, [Bootstrap 5.3](https://getbootstrap.com/) |
 | Weboldal *(frontend)* | [Vue.js](https://vuejs.org/) + [Vite](https://vite.dev/) |
 | Backend / Szerver | [.NET EF Core 8.0.22](https://github.com/dotnet/efcore) |
-
